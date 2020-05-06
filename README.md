@@ -1,2 +1,2 @@
 # htmlcss
-Desafios Html & CSS
+HTML & CSS studies
